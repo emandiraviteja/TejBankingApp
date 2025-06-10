@@ -34,9 +34,9 @@ With its **clean UI**, **robust architecture**, and **modern Kotlin codebase**, 
 > 
 > ## 📸 Screenshots
 
-| Home Screen | OTP Verification | Card Settings |
-|-------------|------------------|----------------|
-| ![Home](screenshots/home.png) | ![OTP](screenshots/otp.png) | ![Card](screenshots/card_settings.png) |
+| Home Screen                   | OTP Verification | Card Settings |
+|-------------------------------|------------------|----------------|
+| ![Home](screenshots/home.jpg) | ![OTP](screenshots/otp.jpg) | ![Card](screenshots/card_settings.jpg) |
 
 > To use this section:
 > - Place screenshots inside a `/screenshots/` folder in your root directory.
