@@ -1,4 +1,4 @@
-# 🏦 BankingApp
+# 🏦 BankingApp with MVVM
 
 The **BankingApp** is a beautifully designed and well-architected mobile application written in **Kotlin**.
 
@@ -31,3 +31,25 @@ With its **clean UI**, **robust architecture**, and **modern Kotlin codebase**, 
 ---
 
 > 🚀 Feel free to fork, customize, and extend this project for your needs.
+> 
+> ## 📸 Screenshots
+
+| Home Screen | OTP Verification | Card Settings |
+|-------------|------------------|----------------|
+| ![Home](screenshots/home.png) | ![OTP](screenshots/otp.png) | ![Card](screenshots/card_settings.png) |
+
+> To use this section:
+> - Place screenshots inside a `/screenshots/` folder in your root directory.
+> - Replace the image names above with your actual image file names.
+
+---
+
+## 🛡️ Badges (Optional)
+
+You can add badges like these:
+
+```markdown
+![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
+![Build](https://img.shields.io/badge/build-passing-success)
+![License](https://img.shields.io/github/license/your-username/your-repo)
+![Language](https://img.shields.io/github/languages/top/your-username/your-repo)
